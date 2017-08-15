@@ -1,0 +1,1259 @@
+1502668856317	geckodriver	INFO	geckodriver 0.18.0
+1502668856328	geckodriver	INFO	Listening on 127.0.0.1:43421
+1502668857932	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502668861925	Marionette	INFO	Listening on port 36599
+1502668862057	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502668862754	Marionette	DEBUG	loaded listener.js
+1502668862846	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502668863195	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502668863196	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502668863513	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502668867708	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+1502668900159	Marionette	INFO	Ceased listening
+1502668920184	geckodriver	INFO	geckodriver 0.18.0
+1502668920190	geckodriver	INFO	Listening on 127.0.0.1:39225
+1502668921709	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502668924656	Marionette	INFO	Listening on port 43633
+1502668924770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502668925170	Marionette	DEBUG	loaded listener.js
+1502668925207	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502668925576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502668925577	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502668925927	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502668929138	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[Parent 6680] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+(firefox:6680): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8a3f5a6ce0' of type 'MaiAtkType139'
+
+(firefox:6680): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8a5a551ab0' of type 'MaiAtkType139'
+1502669057344	Marionette	INFO	Ceased listening
+1502669175786	geckodriver	INFO	geckodriver 0.18.0
+1502669175790	geckodriver	INFO	Listening on 127.0.0.1:47483
+1502669177305	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502669180102	Marionette	INFO	Listening on port 40397
+1502669180179	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502669180553	Marionette	DEBUG	loaded listener.js
+1502669180603	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502669180975	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502669180976	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502669181324	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502669184588	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+[Parent 6967] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e44bf71a0' of type 'MaiAtkType139'
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e46229380' of type 'MaiAtkType139'
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669226289	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669227593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669228774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e687258d0' of type 'MaiAtkType139'
+1502669239345	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669240007	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669241207	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669242446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e7365ad80' of type 'MaiAtkType139'
+1502669252944	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669253568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669254604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669255766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e764aa830' of type 'MaiAtkType139'
+1502669266394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669267099	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669268201	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669270036	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e66bdec90' of type 'MaiAtkType139'
+1502669280991	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669281775	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669283021	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669285167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e6f952920' of type 'MaiAtkType139'
+1502669295950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669296673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669297993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669299448	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e6262efb0' of type 'MaiAtkType139'
+1502669310131	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669310716	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669312050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669313515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e747d5d80' of type 'MaiAtkType139'
+1502669324231	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669326780	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669328037	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669328988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e654d3830' of type 'MaiAtkType139'
+1502669339858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669342824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669343954	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669345515	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e6f9527e0' of type 'MaiAtkType139'
+1502669356242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669359453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669360666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669363549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e63a18a10' of type 'MaiAtkType139'
+1502669374318	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669376265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669377506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669382969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e764aa560' of type 'MaiAtkType139'
+1502669393664	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669394638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669395899	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669397412	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e650ee740' of type 'MaiAtkType139'
+1502669408124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669408807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669410199	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669411246	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e762c4a10' of type 'MaiAtkType139'
+1502669421884	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669422574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669423893	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669424901	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e747d5ba0' of type 'MaiAtkType139'
+1502669435567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669436241	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669437617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669438712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e764aad80' of type 'MaiAtkType139'
+1502669449315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669450048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669451414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669452517	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e764aa560' of type 'MaiAtkType139'
+1502669463168	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669463827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669465213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669467183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e67515b50' of type 'MaiAtkType139'
+1502669477774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669478449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669479786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669482004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e657bc470' of type 'MaiAtkType139'
+1502669492631	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669493370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669494580	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669496103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e74d9c740' of type 'MaiAtkType139'
+1502669506557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+1502669507165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669508378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669509872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e764aafb0' of type 'MaiAtkType139'
+1502669520259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:6967): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f7e646b5600' of type 'MaiAtkType139'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1502669544993	Marionette	INFO	Ceased listening
+1502669571830	geckodriver	INFO	geckodriver 0.18.0
+1502669571839	geckodriver	INFO	Listening on 127.0.0.1:54793
+1502669573350	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502669576470	Marionette	INFO	Listening on port 36567
+1502669576603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502669576941	Marionette	DEBUG	loaded listener.js
+1502669576995	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502669577367	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502669577368	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502669577681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502669580696	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:7479): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fd63dcfd650' of type 'MaiAtkType139'
+
+(firefox:7479): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fd65c04a420' of type 'MaiAtkType139'
+1502669602618	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669603808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669605102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7479): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fd65d044a60' of type 'MaiAtkType139'
+1502669615929	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669616649	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669617732	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502669618951	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7479): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fd65dd2c4c0' of type 'MaiAtkType139'
+1502669624307	Marionette	INFO	Ceased listening
+1502669998864	geckodriver	INFO	geckodriver 0.18.0
+1502669998869	geckodriver	INFO	Listening on 127.0.0.1:40179
+1502670000385	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502670003674	Marionette	INFO	Listening on port 41617
+1502670003747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502670004161	Marionette	DEBUG	loaded listener.js
+1502670004214	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502670005711	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502670005712	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502670006062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502670013770	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25b7210ba0' of type 'MaiAtkType139'
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670035354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670036463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670037484	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e4eb08d0' of type 'MaiAtkType139'
+1502670048153	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670048907	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670049971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670051210	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e57eb240' of type 'MaiAtkType139'
+1502670061969	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670062704	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670063810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670065035	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e6990600' of type 'MaiAtkType139'
+1502670075521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670076165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670077182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670078711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e59e3c40' of type 'MaiAtkType139'
+1502670089379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670090045	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670091159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670092993	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e015e330' of type 'MaiAtkType139'
+1502670103684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670104602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670106062	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670107440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e59abba0' of type 'MaiAtkType139'
+1502670118223	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670118887	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670120157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670121430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25cf6fff10' of type 'MaiAtkType139'
+1502670132237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670133430	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670134605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670135422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d31ed4c0' of type 'MaiAtkType139'
+1502670146014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670146777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670148060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670149568	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d8e169c0' of type 'MaiAtkType139'
+1502670160292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670160973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670162225	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670165027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e5424ba0' of type 'MaiAtkType139'
+1502670175555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670176251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670177433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670182661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d46fde70' of type 'MaiAtkType139'
+1502670193177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670194008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670195136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670196381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e68f4b50' of type 'MaiAtkType139'
+1502670206827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670207521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670208590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670209596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d46b4ab0' of type 'MaiAtkType139'
+1502670220009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670220677	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670221802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670222985	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d4f92290' of type 'MaiAtkType139'
+1502670233709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670234645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670236094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670237420	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e570c2e0' of type 'MaiAtkType139'
+1502670248097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670248851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670250088	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670251537	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e59abba0' of type 'MaiAtkType139'
+1502670262315	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670263305	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670264713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670266425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d06df240' of type 'MaiAtkType139'
+1502670277070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670278551	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670279825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670281917	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e59aba10' of type 'MaiAtkType139'
+1502670292563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670293872	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670295136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670296924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e5798d30' of type 'MaiAtkType139'
+1502670307761	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+1502670308688	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670310174	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502670311768	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25e3ec5fb0' of type 'MaiAtkType139'
+1502670322651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:7928): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f25d53cce20' of type 'MaiAtkType139'
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 7928] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Parent 7928] WARNING: pipe error (82): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1502671095611	Marionette	INFO	Ceased listening
+1502671102656	geckodriver	INFO	geckodriver 0.18.0
+1502671102665	geckodriver	INFO	Listening on 127.0.0.1:42553
+1502671104174	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502671107109	Marionette	INFO	Listening on port 34215
+1502671107214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502671107552	Marionette	DEBUG	loaded listener.js
+1502671107628	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502671108099	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502671108100	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502671108494	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502671111861	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4a841026f0' of type 'MaiAtkType139'
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4a88a3b150' of type 'MaiAtkType139'
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4aa2289ab0' of type 'MaiAtkType139'
+1502671124554	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502671125587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502671126863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4aa2d147e0' of type 'MaiAtkType139'
+1502671137564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4aa2289ab0' of type 'MaiAtkType139'
+1502671138221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4aa2289ab0' of type 'MaiAtkType139'
+1502671139377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502671140577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:8762): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f4aa36b8fb0' of type 'MaiAtkType139'
+[Child 8847] WARNING: pipe error (3): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1502671355935	geckodriver	INFO	geckodriver 0.18.0
+1502671355939	geckodriver	INFO	Listening on 127.0.0.1:46171
+1502671357445	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502671360510	Marionette	INFO	Listening on port 35449
+1502671360591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502671360989	Marionette	DEBUG	loaded listener.js
+1502671361066	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502671361397	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502671361398	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502671361664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502671364207	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:9077): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f53792fa4c0' of type 'MaiAtkType139'
+1502671484839	Marionette	INFO	Ceased listening
+1502671505925	geckodriver	INFO	geckodriver 0.18.0
+1502671505935	geckodriver	INFO	Listening on 127.0.0.1:56283
+1502671507443	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502671510318	Marionette	INFO	Listening on port 33929
+1502671510399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502671510790	Marionette	DEBUG	loaded listener.js
+1502671510853	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502671511203	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502671511204	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502671511520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502671514698	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:9321): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fee5fb8d920' of type 'MaiAtkType139'
+
+(firefox:9321): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fee5fa7b470' of type 'MaiAtkType139'
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Parent 9321] WARNING: pipe error (81): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1502672058600	Marionette	INFO	Ceased listening
+1502718382098	geckodriver	INFO	geckodriver 0.18.0
+1502718382107	geckodriver	INFO	Listening on 127.0.0.1:47829
+1502718383678	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502718387178	Marionette	INFO	Listening on port 32797
+1502718387274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502718387675	Marionette	DEBUG	loaded listener.js
+1502718387726	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502718388060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502718388061	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502718388400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502718391423	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:932): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb20c88d290' of type 'MaiAtkType139'
+1502718424176	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718425237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718426278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:932): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fb20c88d8d0' of type 'MaiAtkType139'
+[Parent 932] WARNING: pipe error (91): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1502718441033	Marionette	INFO	Ceased listening
+1502718551018	geckodriver	INFO	geckodriver 0.18.0
+1502718551024	geckodriver	INFO	Listening on 127.0.0.1:51337
+1502718552577	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502718555551	Marionette	INFO	Listening on port 39811
+1502718555630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502718556157	Marionette	DEBUG	loaded listener.js
+1502718556245	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502718556530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502718556531	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502718556849	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502718560067	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdfe3d62330' of type 'MaiAtkType139'
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00081c2e0' of type 'MaiAtkType139'
+1502718571393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718572621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718573895	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdffeba4c40' of type 'MaiAtkType139'
+1502718584667	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718585474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718586586	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718587666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe001674790' of type 'MaiAtkType139'
+1502718598326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718599064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718600166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718601590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00223d740' of type 'MaiAtkType139'
+1502718612220	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718612984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718614343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718616235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe017445e70' of type 'MaiAtkType139'
+1502718626854	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718627804	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718628981	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718630053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe01f36b600' of type 'MaiAtkType139'
+1502718640763	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718641381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718642738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718643824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe0024d3600' of type 'MaiAtkType139'
+1502718654485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718656104	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718657263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718657939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe014116c40' of type 'MaiAtkType139'
+1502718668583	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718669368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718670548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718672017	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fdffa8553d0' of type 'MaiAtkType139'
+1502718682805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718683506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718684754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718687245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe003457060' of type 'MaiAtkType139'
+1502718697897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718698596	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718699876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718705136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe0174114c0' of type 'MaiAtkType139'
+1502718715827	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718716624	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718717967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718719266	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe0140f3d30' of type 'MaiAtkType139'
+1502718729956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718730711	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718731971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718733181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe006af0d80' of type 'MaiAtkType139'
+1502718743960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718744635	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718745988	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718746970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe000c13100' of type 'MaiAtkType139'
+1502718757747	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00081c2e0' of type 'MaiAtkType139'
+1502718758474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718759891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718761145	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe011948e20' of type 'MaiAtkType139'
+1502718771808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00081c2e0' of type 'MaiAtkType139'
+1502718772578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718774094	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718775184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe0034a6c90' of type 'MaiAtkType139'
+1502718785926	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00081c2e0' of type 'MaiAtkType139'
+1502718786705	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718788157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718790020	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe017445f10' of type 'MaiAtkType139'
+1502718800809	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00081c2e0' of type 'MaiAtkType139'
+1502718801506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718802968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718804983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe01f36b600' of type 'MaiAtkType139'
+1502718815686	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe00081c2e0' of type 'MaiAtkType139'
+1502718816433	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718817866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502718819725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:1169): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7fe0065dfec0' of type 'MaiAtkType139'
+1502718830572	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1502718881180	Marionette	INFO	Ceased listening
+1502722992542	geckodriver	INFO	geckodriver 0.18.0
+1502722992547	geckodriver	INFO	Listening on 127.0.0.1:33999
+1502722994066	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502722997270	Marionette	INFO	Listening on port 42299
+1502722997379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502722997854	Marionette	DEBUG	loaded listener.js
+1502722997946	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502722998572	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502722998573	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502722998992	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502723003898	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88562aae20' of type 'MaiAtkType139'
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723042151	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723053341	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723059676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8888338600' of type 'MaiAtkType139'
+1502723070576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723081054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723092508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 3365] WARNING: pipe error: Broken pipe: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Parent 3365] WARNING: pipe error (98): Connection reset by peer: file /build/firefox/src/mozilla-unified/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1502723103527	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723109834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88759c4a10' of type 'MaiAtkType139'
+1502723120678	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723131031	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723142377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723153368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723159727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88804a1e70' of type 'MaiAtkType139'
+1502723170534	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723180891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723192328	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723203255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723209668	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f887a742e20' of type 'MaiAtkType139'
+1502723220488	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723230871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723247227	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723258268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723264998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8859c806a0' of type 'MaiAtkType139'
+1502723275771	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723286131	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723308795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723319856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723326116	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8874ff70b0' of type 'MaiAtkType139'
+1502723336911	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723347253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723363522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723374663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723380915	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8873472a10' of type 'MaiAtkType139'
+1502723391651	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723401992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723415729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723426755	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723432739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8880506d80' of type 'MaiAtkType139'
+1502723443845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723454203	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723474121	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723485187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723491870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8883d94970' of type 'MaiAtkType139'
+1502723502823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502723513228	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723525351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723536441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723544182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8883d9d6a0' of type 'MaiAtkType139'
+1502723555178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723565541	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723578521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723589543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723599673	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88857b0ba0' of type 'MaiAtkType139'
+1502723610549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723620919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723633579	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723644785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723651354	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8885853e70' of type 'MaiAtkType139'
+1502723662110	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723672463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723684506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723695665	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723701871	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8857afd240' of type 'MaiAtkType139'
+1502723712712	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723723064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723739842	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723751003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723757229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88722b2d80' of type 'MaiAtkType139'
+1502723768182	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723778558	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723790526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723801681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723807998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f886cadcd30' of type 'MaiAtkType139'
+1502723818613	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723829004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723851662	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723862898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723869167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88722b2ec0' of type 'MaiAtkType139'
+1502723879891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723890233	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723903738	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723914982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723921979	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f8875dd7600' of type 'MaiAtkType139'
+1502723932736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723943085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723960178	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723971479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502723978718	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88857b09c0' of type 'MaiAtkType139'
+1502723989555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502723999912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502724013961	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502724025085	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502724031935	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f887deee240' of type 'MaiAtkType139'
+1502724042834	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:3365): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f88742d1a10' of type 'MaiAtkType139'
+1502724053196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1502725518261	Marionette	INFO	Ceased listening
+1502750912321	geckodriver	INFO	geckodriver 0.18.0
+1502750912327	geckodriver	INFO	Listening on 127.0.0.1:44785
+1502750913876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502750927237	Marionette	INFO	Listening on port 38469
+1502750927329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502750927808	Marionette	DEBUG	loaded listener.js
+1502750927885	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502750928738	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502750928740	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502750929526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502750936488	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f134355f880' of type 'MaiAtkType139'
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1345dfe2e0' of type 'MaiAtkType139'
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502750965502	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502750976837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502750982992	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f137265c970' of type 'MaiAtkType139'
+1502750993830	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751004282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751016930	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751027999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751034353	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f136cea04c0' of type 'MaiAtkType139'
+1502751045191	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751055608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751071947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751083010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751089394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f136cea0e20' of type 'MaiAtkType139'
+1502751100288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751110735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751122781	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751133857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751140461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f136635b880' of type 'MaiAtkType139'
+1502751151326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751161791	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751178376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751189564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751196440	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1373bf9ab0' of type 'MaiAtkType139'
+1502751207229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751217674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751230172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751241461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751247947	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f136635b830' of type 'MaiAtkType139'
+1502751258840	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751269278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751281310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751292555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751299029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1371e83470' of type 'MaiAtkType139'
+1502751309998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751320446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751335475	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751346557	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751352565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1375f8a2e0' of type 'MaiAtkType139'
+1502751363491	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751373967	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751386916	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751397937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751404570	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f136683ff10' of type 'MaiAtkType139'
+1502751415505	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751426004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502751438184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751449432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751457052	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1375fd26a0' of type 'MaiAtkType139'
+1502751467736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751478167	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751494736	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751506047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751516122	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1348aae100' of type 'MaiAtkType139'
+1502751527047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751537454	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751549645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751560989	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751567684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1375fd27e0' of type 'MaiAtkType139'
+1502751578584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751589022	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751600709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751611857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751618291	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1375fd2740' of type 'MaiAtkType139'
+1502751629255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751639741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751652397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751663674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751670123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f13774fcfb0' of type 'MaiAtkType139'
+1502751680865	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751691326	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751704636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751715982	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751722588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f13774fcfb0' of type 'MaiAtkType139'
+1502751733422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751743829	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751755984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751767587	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751774175	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1377461fb0' of type 'MaiAtkType139'
+1502751785428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751795890	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751812501	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751823894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751831009	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1373989b50' of type 'MaiAtkType139'
+1502751842235	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751852701	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751866187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751877401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751884921	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1371efeec0' of type 'MaiAtkType139'
+1502751895885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751906355	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751920343	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751931858	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502751938860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1372393e20' of type 'MaiAtkType139'
+1502751949965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:16360): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7f1362fafd30' of type 'MaiAtkType139'
+1502751960391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752735219	Marionette	INFO	Ceased listening
+1502752851137	geckodriver	INFO	geckodriver 0.18.0
+1502752851143	geckodriver	INFO	Listening on 127.0.0.1:58089
+1502752852698	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1502752866382	Marionette	INFO	Listening on port 35121
+1502752866512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502752867034	Marionette	DEBUG	loaded listener.js
+1502752867111	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502752867844	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502752867845	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502752869424	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://web.whatsapp.com/"
+1502752876347	Marionette	DEBUG	Received DOM event "pageshow" for "https://web.whatsapp.com/"
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff395deffb0' of type 'MaiAtkType139'
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff397ed2790' of type 'MaiAtkType139'
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502752912777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752923846	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752930177	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b497ea10' of type 'MaiAtkType139'
+1502752940875	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752951511	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752964485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752975546	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502752981891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3bf0673d0' of type 'MaiAtkType139'
+1502752992602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753002984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753015352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753026404	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753032683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c45c0ab0' of type 'MaiAtkType139'
+1502753043453	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753053852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753067795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753078770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753085308	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b90fb290' of type 'MaiAtkType139'
+1502753096100	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753106543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753118128	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753129068	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753135794	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b5043e70' of type 'MaiAtkType139'
+1502753146617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753157087	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753171234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753182372	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753188606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b27ddfb0' of type 'MaiAtkType139'
+1502753199387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753209843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753227431	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753238522	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753244909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b33bf830' of type 'MaiAtkType139'
+1502753255681	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753266073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753277977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753289015	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753294894	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c49f77e0' of type 'MaiAtkType139'
+1502753305813	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753316206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753327807	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753338867	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753345482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c8c139c0' of type 'MaiAtkType139'
+1502753356317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753366725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502753378432	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753389606	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753397614	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3bca0a1a0' of type 'MaiAtkType139'
+1502753408451	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753418820	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753431124	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753442314	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753453054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c6dea600' of type 'MaiAtkType139'
+1502753463841	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753474267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753491788	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753503024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753509584	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c6deac40' of type 'MaiAtkType139'
+1502753520208	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753530563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753542495	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753553518	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753559723	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c6dea740' of type 'MaiAtkType139'
+1502753570645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753581053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753593185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753604376	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753610567	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b2db0ec0' of type 'MaiAtkType139'
+1502753621248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753631676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753644832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753656061	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753662367	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c6dea4c0' of type 'MaiAtkType139'
+1502753673070	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753683434	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753695095	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753706394	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753712671	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c41fa8d0' of type 'MaiAtkType139'
+1502753723472	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753733889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753746526	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753757615	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753764393	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3c5ae9a10' of type 'MaiAtkType139'
+1502753775408	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753785785	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753797386	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753808497	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753815574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b3388830' of type 'MaiAtkType139'
+1502753826190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753836609	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753849357	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753860758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502753867685	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b50d7f10' of type 'MaiAtkType139'
+1502753878463	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+(firefox:17721): GLib-GObject-WARNING **: gsignal.c:3492: signal name 'selection_changed' is invalid for instance '0x7ff3b7982060' of type 'MaiAtkType139'
+1502753888837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
